@@ -1,0 +1,37 @@
+{
+  "name": "leagueoflegendsapi",
+  "description": "Driver Riot API League of Legends",
+  "version": "0.0.1",
+  "author": {
+    "name": "Marllon Felipe Muniz de Farias Alves",
+    "email": "marllon@munizdefarias.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marllon90/leagueoflegendsapi.git"
+  },
+  "homepage": "http://munizdefarias.com/leagueoflegendsapi",
+  "keywords": [
+    "riot",
+    "api",
+    "league of legends",
+    "api"
+  ],
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js"
+  ]
+}
